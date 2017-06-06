@@ -1,0 +1,15 @@
+c:\users\roca\documents\visual studio 2017\Projects\GestionUsurios\GestionUsurios\obj\Debug\GestionUsurios.vbprojResolveAssemblyReference.cache
+c:\users\roca\documents\visual studio 2017\Projects\GestionUsurios\GestionUsurios\obj\Debug\GestionUsurios.Resources.resources
+c:\users\roca\documents\visual studio 2017\Projects\GestionUsurios\GestionUsurios\obj\Debug\GestionUsurios.vbproj.GenerateResource.Cache
+c:\users\roca\documents\visual studio 2017\Projects\GestionUsurios\GestionUsurios\obj\Debug\GestionUsurios.Form1.resources
+c:\users\roca\documents\visual studio 2017\Projects\GestionUsurios\GestionUsurios\bin\Debug\GestionUsurios.exe.config
+c:\users\roca\documents\visual studio 2017\Projects\GestionUsurios\GestionUsurios\bin\Debug\GestionUsurios.exe
+c:\users\roca\documents\visual studio 2017\Projects\GestionUsurios\GestionUsurios\bin\Debug\GestionUsurios.pdb
+c:\users\roca\documents\visual studio 2017\Projects\GestionUsurios\GestionUsurios\bin\Debug\GestionUsurios.xml
+c:\users\roca\documents\visual studio 2017\Projects\GestionUsurios\GestionUsurios\obj\Debug\GestionUsurios.exe
+c:\users\roca\documents\visual studio 2017\Projects\GestionUsurios\GestionUsurios\obj\Debug\GestionUsurios.xml
+c:\users\roca\documents\visual studio 2017\Projects\GestionUsurios\GestionUsurios\obj\Debug\GestionUsurios.pdb
+C:\Users\Roca\documents\visual studio 2017\Projects\GestionUsurios\GestionUsurios\bin\Debug\GestionUsurios.exe.manifest
+C:\Users\Roca\documents\visual studio 2017\Projects\GestionUsurios\GestionUsurios\bin\Debug\GestionUsurios.application
+C:\Users\Roca\documents\visual studio 2017\Projects\GestionUsurios\GestionUsurios\obj\Debug\GestionUsurios.exe.manifest
+C:\Users\Roca\documents\visual studio 2017\Projects\GestionUsurios\GestionUsurios\obj\Debug\GestionUsurios.application
